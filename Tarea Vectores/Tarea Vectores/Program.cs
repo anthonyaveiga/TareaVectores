@@ -10,7 +10,7 @@ namespace Tarea_vectores
 	{
 		public static void TareaVectores()
 		{
-			int[] vec = new int[5];
+			int[] vec = new int[10];
 			int mayor = vec[0], menor = vec[0];
 
 			for (int i = 0; i < vec.Length; i++)
